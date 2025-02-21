@@ -1,0 +1,2 @@
+# PokimonRandomGenerator
+Pokemon randomized generator
